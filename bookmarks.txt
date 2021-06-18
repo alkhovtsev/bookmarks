@@ -1,0 +1,68 @@
+Полезные ссылки 
+
+	Инструменты 
+		Сайты с помогалками
+			https://dotnetfiddle.net
+			https://jsonformatter.curiousconcept.com
+			https://text.ru/seo
+			https://regex101.com
+			http://www.json2ts.com
+			
+		Visual Studio 
+			Хоткеи что бы после отпуска вспомнить
+			https://stackoverflow.com/questions/14051589/visual-studio-expand-collapse-keyboard-shortcuts
+
+	ЮНИТИ
+		
+		По паттерну ECS
+			https://habr.com/ru/post/482374/
+			https://habr.com/ru/post/343778/
+			https://habr.com/ru/post/556370/
+			https://habr.com/ru/post/358108/
+			https://github.com/Leopotam/ecs
+			
+	ФРОНТ
+		Аналогии LINQ в TS
+			https://decembersoft.com/posts/typescript-vs-csharp-linq/
+		
+		Верстка
+			Про БЭМ
+				https://ru.bem.info/methodology/quick-start/
+			Простой гридстер
+				http://hugeinc.github.io/flexboxgrid-sass/
+	
+		Агуляр
+		
+			С чего начать новый проект 
+				https://medium.com/dev-jam/5-tips-best-practices-to-organize-your-angular-project-e900db08702e
+				
+			Что делать в первую очередь в проекте
+				https://dev.to/mustapha/angular-unit-testing-101-with-examples-6mc
+				https://habr.com/ru/post/349380/
+			
+			Для 90% админок и т.п.
+				https://akveo.github.io/ng2-smart-table/#/documentation
+				https://www.npmjs.com/package/ngx-smart-modal
+				https://www.npmjs.com/package/@ng-select/ng-select
+				https://angular-slider.github.io/ngx-slider/
+				https://angular2-tree.readme.io/
+				https://github.com/auth0/angular2-jwt
+				
+			По RxJs
+				https://rxmarbles.com/
+				
+			Динамическая встака в ДОМ 
+				https://medium.com/front-end-weekly/dynamically-add-components-to-the-dom-with-angular-71b0cb535286
+				
+			Реализация лоадера в ангуляре
+				https://medium.com/@zeljkoradic/loader-bar-on-every-http-request-in-angular-6-60d8572a21a9
+				
+			Самодельная модалка
+				https://betterprogramming.pub/dynamically-loaded-bootstrap-4-modal-component-powered-by-angular-6621f5fd3173
+		
+	
+			
+	Общее про архитектуру
+		https://refactoring.guru/ru
+		https://medium.com/@bogdan.darjan/command-and-query-domain-table-of-contents-fb229602df5c
+		https://martinfowler.com/architecture/
