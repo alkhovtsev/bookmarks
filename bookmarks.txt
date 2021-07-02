@@ -47,6 +47,7 @@
 				https://angular-slider.github.io/ngx-slider/
 				https://angular2-tree.readme.io/
 				https://github.com/auth0/angular2-jwt
+				https://ng.ant.design
 				
 			По RxJs
 				https://rxmarbles.com/
