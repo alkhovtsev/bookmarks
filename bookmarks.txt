@@ -61,7 +61,9 @@
 			Самодельная модалка
 				https://betterprogramming.pub/dynamically-loaded-bootstrap-4-modal-component-powered-by-angular-6621f5fd3173
 		
-	
+	БЭК
+		Клиент для REST API
+			https://restsharp.dev/getting-started/getting-started.html
 			
 	Общее про архитектуру
 		https://refactoring.guru/ru
