@@ -69,3 +69,13 @@
 		https://refactoring.guru/ru
 		https://medium.com/@bogdan.darjan/command-and-query-domain-table-of-contents-fb229602df5c
 		https://martinfowler.com/architecture/
+		http://sewiki.ru/
+	
+	Конкретное про архитектуру
+		Пишут как делать
+			https://enterprisecraftsmanship.com/
+			https://enterprisecraftsmanship.com/
+		
+		Примеры как делать
+			https://github.com/ardalis
+		
