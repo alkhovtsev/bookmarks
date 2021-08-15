@@ -79,5 +79,9 @@
 		
 		Примеры как делать
 			https://github.com/ardalis
+			https://github.com/iammukeshm
 			https://codewithmukesh.com/project/aspnet-core-webapi-clean-architecture%E2%80%8B/
 			https://medium.com/c-sharp-progarmming/tutorial-net-5-clean-architecture-4cc900f7945b
+			
+		Возможно надо купить
+			https://howto.stringconcat.com/#start
