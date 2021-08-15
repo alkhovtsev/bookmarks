@@ -64,7 +64,9 @@
 	БЭК
 		Клиент для REST API
 			https://restsharp.dev/getting-started/getting-started.html
-			
+	C#
+		https://medium.com/@jaiadityarathore/dotnet-core-threadpool-bef2f5a37888
+		
 	Общее про архитектуру
 		https://refactoring.guru/ru
 		https://medium.com/@bogdan.darjan/command-and-query-domain-table-of-contents-fb229602df5c
@@ -74,8 +76,8 @@
 	Конкретное про архитектуру
 		Пишут как делать
 			https://enterprisecraftsmanship.com/
-			https://enterprisecraftsmanship.com/
 		
 		Примеры как делать
 			https://github.com/ardalis
-		
+			https://codewithmukesh.com/project/aspnet-core-webapi-clean-architecture%E2%80%8B/
+			https://medium.com/c-sharp-progarmming/tutorial-net-5-clean-architecture-4cc900f7945b
