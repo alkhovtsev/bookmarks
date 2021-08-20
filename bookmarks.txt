@@ -63,7 +63,8 @@
 		
 	БЭК
 		Клиент для REST API
-			https://restsharp.dev/getting-started/getting-started.html
+			https://restsharp.dev/getting-started/getting-started.htm
+			https://github.com/reactiveui/refit
 	C#
 		https://medium.com/@jaiadityarathore/dotnet-core-threadpool-bef2f5a37888
 		
