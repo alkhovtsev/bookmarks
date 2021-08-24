@@ -79,6 +79,8 @@
 			https://enterprisecraftsmanship.com/
 		
 		Примеры как делать
+			https://github.com/dotnet-architecture/eShopOnWeb
+			https://github.com/ivanpaulovich/clean-architecture-manga/
 			https://github.com/ardalis
 			https://github.com/iammukeshm
 			https://codewithmukesh.com/project/aspnet-core-webapi-clean-architecture%E2%80%8B/
