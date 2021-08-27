@@ -77,10 +77,14 @@
 	Конкретное про архитектуру
 		Пишут как делать
 			https://enterprisecraftsmanship.com/
-		
+			https://habr.com/ru/post/499078/
+			
 		Примеры как делать
 			https://github.com/dotnet-architecture/eShopOnWeb
 			https://github.com/ivanpaulovich/clean-architecture-manga/
+			https://github.com/sunilkumarmedium/CleanArchitectureApp
+			https://github.com/jasontaylordev/CleanArchitecture/
+			+\- https://github.com/coffeeandcloud/angular-clean-architecture
 			https://github.com/ardalis
 			https://github.com/iammukeshm
 			https://codewithmukesh.com/project/aspnet-core-webapi-clean-architecture%E2%80%8B/
