@@ -78,6 +78,7 @@
 		Пишут как делать
 			https://enterprisecraftsmanship.com/
 			https://habr.com/ru/post/499078/
+			https://pereiren.medium.com/clean-architecture-series-part-1-f34ef6b04b62
 			
 		Примеры как делать
 			https://github.com/dotnet-architecture/eShopOnWeb
