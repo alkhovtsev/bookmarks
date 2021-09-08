@@ -30,7 +30,11 @@
 				https://ru.bem.info/methodology/quick-start/
 			Простой гридстер
 				http://hugeinc.github.io/flexboxgrid-sass/
-	
+		
+		Pivot-tables:
+			https://pivottable.js.org/examples/index.html
+			https://www.webdatarocks.com
+		
 		Агуляр
 		
 			С чего начать новый проект 
