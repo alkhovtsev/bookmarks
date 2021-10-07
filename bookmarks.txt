@@ -103,3 +103,6 @@
 			
 	Полезные репозитории
 		https://github.com/0x1000000/SqExpress
+		
+	Полезные блоги 
+		https://apolomodov.medium.com
