@@ -100,3 +100,6 @@
 				https://dev.to/tigrus/ddd-25co
 		Возможно надо купить
 			https://howto.stringconcat.com/#start
+			
+	Полезные репозитории
+		https://github.com/0x1000000/SqExpress
