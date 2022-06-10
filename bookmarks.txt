@@ -105,6 +105,7 @@
 			
 	Полезные репозитории
 		https://github.com/0x1000000/SqExpress
+		https://github.com/google/diff-match-patch/wiki/Language:-C%23#hello-world
 		
 	Полезные блоги 
 		https://apolomodov.medium.com
